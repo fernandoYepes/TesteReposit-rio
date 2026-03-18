@@ -1,5 +1,5 @@
 class No:
 
-    def _init_(self, valor):
+    def __init__(self, valor):
         self.dado = valor
         self.prox = None
